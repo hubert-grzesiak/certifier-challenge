@@ -4,7 +4,7 @@
 
 This is my implementation of the **Certifier Frontend Challenge**. The goal was to build a responsive, pixel-perfect landing page based on a provided Figma design.
 
-The project was built using **Next.js 14** (with App Router), **TypeScript**, and **Tailwind CSS**, with a strong focus on clean architecture, semantic HTML, and accessibility.
+The project was built using **Next.js 15** (with App Router), **TypeScript**, and **Tailwind CSS**, with a strong focus on clean architecture, semantic HTML, and accessibility.
 
 ---
 
@@ -25,7 +25,7 @@ Below is a screenshot of the final page on a desktop view:
 - **Pixel-Perfect Fidelity**: The page was implemented with great attention to detail to match the Figma design as closely as possible.
 - **Fully Responsive**: The layout fluidly adapts to various screen sizes, from mobile devices to wide desktop monitors.
 - **Accessibility in Mind**: Built with semantic HTML and basic ARIA attributes to ensure the page is more accessible to users of assistive technologies.
-- **Modern Tech Stack**: Utilizes the latest standards and tools, including Next.js App Router and TypeScript.
+- **Modern Tech Stack**: Utilizes the latest standards and tools, including  App Router and TypeScript.
 - **Component-Based Architecture**: A logical and clean project structure based on reusable components.
 - **Interactive UI**: Includes subtle transitions and hover states to enhance the user experience (UX).
 
@@ -33,7 +33,7 @@ Below is a screenshot of the final page on a desktop view:
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Framework**: [ 15](https://nextjs.org/) (App Router)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Icons**: [Lucide React](https://lucide.dev/)
@@ -56,7 +56,7 @@ Below is a screenshot of the final page on a desktop view:
 ├── lib/                    # Helper files (e.g., utils.ts with the cn function)
 ├── public/                 # Static assets (fonts, images)
 ├── .eslintrc.json          # ESLint configuration
-├── next.config.mjs         # Next.js configuration
+├── next.config.mjs         #  configuration
 └── tailwind.config.ts      # Tailwind CSS configuration
 ```
 
